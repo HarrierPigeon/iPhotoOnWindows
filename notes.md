@@ -14,6 +14,7 @@ Steps:
    2. apparently that wasn't necessary- after installing ``pavucontrol`` all I needed to do was set the output once and it's worked solidly after that.
 3. set up Darling
 4. 
+5. [download iPhoto](https://archive.org/details/i-photo-9.6.1)
 
 
 ## ubuntu installed packages
